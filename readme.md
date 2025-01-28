@@ -1,4 +1,4 @@
-# **Simulation Project: Traffic Flow with Burstiness Analysis**
+# **Simulation Project**
 
 ## **Overview**
 This project simulates heterogeneous network traffic (data, voice, and video) flowing through an infinite capacity queue. The objective is to analyze the **mean response times** of each traffic type under varying levels of video traffic burstiness.
